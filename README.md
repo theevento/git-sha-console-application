@@ -25,7 +25,7 @@ Default usage:
 ### Options:
 * repository - name of owner and repository for example theevento/git-sha-console-application
 * branch - name of branch from given repository name
-* service - name of git service (default: github)
+* service (optional) - name of git service (default: github)
 
 
 #### Example usage
